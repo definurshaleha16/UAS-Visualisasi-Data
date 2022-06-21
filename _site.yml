@@ -1,0 +1,7 @@
+name: "index"
+navbar:
+  title: "UAS VIDAT"
+  left:
+    - text: "Home"
+      href: index.html
+output_dir: "docs"
